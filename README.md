@@ -54,4 +54,4 @@ Ou diretamente pela IDE, executando a classe LiteraturaApplication.
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Se quiser, posso personalizar com seu nome de usuário do GitHub e o link correto do repositório. Deseja isso?
+
